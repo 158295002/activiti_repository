@@ -1,0 +1,18 @@
+.person {
+    float: right;
+    width: 100px;
+    height: 150px;
+    margin-right: 10px;
+    text-align: center;
+}
+.person a{
+    /*text-decoration: none;*/
+    color: black;
+}
+
+.portrait {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(../icons/portrait5.jpg);
+}

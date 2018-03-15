@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /*background-color: #cddc393b;*/
+}
+
+body{
+    background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516515730462&di=16315e03a8fb397d9be1628e422fabb9&imgtype=0&src=http%3A%2F%2Fpic2.16pic.com%2F00%2F38%2F62%2F16pic_3862207_b.jpg);
+
+}
+
+.wrapper{
+    margin: 50px auto;
+    height: 30px;
+}
+.title{
+    text-align: center;
+}
+.add{
+    float: right;
+    margin-right: 60px;
+    text-decoration: none;
+}
+.person {
+    float: right;
+    width: 100px;
+    height: 150px;
+    margin-right: 10px;
+}
+.person a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.portrait {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url(../icons/portrait5.jpg);
+}
+
+table{
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+}
+th{
+    width:120px;
+}
